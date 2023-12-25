@@ -1,4 +1,7 @@
 {
   "extends": "react-app",
-  "no-unused-vars": ["warn", { "argsIgnorePattern": "req|res|next|val" }]
+  "rules": {
+    "react/prop-types": "off",
+    "no-unused-vars": "warn"
+  }
 }
