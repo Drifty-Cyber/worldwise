@@ -37,52 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Foggaret Ezzaou",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-12-31T15:32:19.629Z",
-      "notes": "",
+      "cityName": "Tiana",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-01T19:13:49.212Z",
+      "notes": "new",
       "position": {
-        "lat": "27.371767300523047",
-        "lng": "2.8416749231041916"
+        "lat": "40.07807142745009",
+        "lng": "9.134455001331899"
       },
       "id": 98443198
-    },
-    {
-      "cityName": "Alfamen",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-31T15:45:35.649Z",
-      "notes": "gg",
-      "position": {
-        "lat": "41.42625319507272",
-        "lng": "-1.2337891993810703"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Fresno de la Vega",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-31T16:12:54.605Z",
-      "notes": "",
-      "position": {
-        "lat": "42.342305278572816",
-        "lng": "-5.53924653696528"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Firmi",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-12-31T16:15:09.745Z",
-      "notes": "jjj",
-      "position": {
-        "lat": "44.5278427984555",
-        "lng": "2.334962376521577"
-      },
-      "id": 98443201
     }
   ]
 }
